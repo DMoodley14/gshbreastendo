@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456907723982",
+    "project_id": "gsh-bookings",
+    "storage_bucket": "gsh-bookings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456907723982:android:116fb1abb47c1386736c9f",
+        "android_client_info": {
+          "package_name": "com.iv.gshbreastendo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456907723982-s312lbrdte7qc21ub443ieh0r0mbu6v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlS0X-r8RUMBD99b26nLvX9SFZL8ifSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456907723982-s312lbrdte7qc21ub443ieh0r0mbu6v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
